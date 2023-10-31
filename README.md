@@ -1,3 +1,8 @@
+<p align="center">
+  <img src = "https://static.vecteezy.com/system/resources/thumbnails/004/335/409/small/cyber-security-icon-illustration-cyber-security-crime-protection-hacker-infographic-template-presentation-concept-banner-pictogram-icon-set-icons-vector.jpg" />
+</p>
+<h1 align="center">Hi 👋, I'm Sajjad Hosen</h1>
+<h3 align="center">A passionate Web Penetration Tester from Bangladesh</h3>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!%20How%20you%20doing'?&center=true&size=30">
